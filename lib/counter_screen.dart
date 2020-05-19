@@ -78,12 +78,12 @@ class Action extends StatelessWidget {
           padding: const EdgeInsets.only(top: 16.0),
           child: FloatingActionButton(
             heroTag: "increase one",
-            child: Icon(Icons.add),
+            child: Text("+1"),
             onPressed: () {
               context.bloc<CounterBloc>().add(Increment());
             },
           ),
-        )
+        ),
       ],
     );
   }

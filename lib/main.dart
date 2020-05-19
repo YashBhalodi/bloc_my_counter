@@ -22,7 +22,6 @@ class SimpleBlocDelegate extends BlocDelegate {
     print("$bloc ___ $event");
     super.onEvent(bloc, event);
   }
-
 }
 
 void main() {

@@ -1,16 +1,6 @@
-# blocmycounter
+# bloc_my_counter
 
-A new Flutter application.
+Attempt to understand the BLoC Architecture in Flutter app.
+The detailed article of my experience is available [here](https://yashbhalodi.github.io/Understanding-BLoC-In-Flutter-App/).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If there is some doubts, or area of improvement, or you just want to geek out about BLoC with me, just file a new Issue, and we will talk. 😁

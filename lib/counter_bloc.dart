@@ -15,7 +15,7 @@ class CounterBloc extends Bloc<CounterEvent, CounterState> {
     } else if (event is Decrement) {
       yield Running(count: state.count - 1);
     } else {
-      throw "Error: unknown state";
+      throw "Error: unknown event";
     }
   }
 }
